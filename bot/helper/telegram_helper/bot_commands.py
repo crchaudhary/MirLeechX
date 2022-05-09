@@ -18,7 +18,7 @@ class _BotCommands:
         self.RestartCommand = 'restart2'
         self.StatsCommand = 'stats2'
         self.HelpCommand = 'help2'
-        self.LogCommand = 'log2
+        self.LogCommand = 'log2'
         self.SpeedCommand = 'speedtest2'
         self.CloneCommand = 'clone2'
         self.CountCommand = 'count2'
